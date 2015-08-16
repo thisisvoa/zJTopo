@@ -4,8 +4,7 @@
 说明
 -----------------------------------
 该项目依赖于开源拓扑图工具类jTopo,详情:[JTopo](http://www.jtopo.com/)<br />
-推荐:[easysql](http://git.oschina.net/zhangwenyan/easysql)<br />
-推荐:[easyweb](http://git.oschina.net/zhangwenyan/easyweb)<br />
+联系本人:799378666@qq.com
 
 
 ###扩展api简介
